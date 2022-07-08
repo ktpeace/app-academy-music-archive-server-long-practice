@@ -1,6 +1,6 @@
-# Long Practice: API Server for a Music Archive
+# Completed version of: Long Practice: API Server for a Music Archive
 
-**Finish the [API docs for a Music Archive practice] before this practice.**
+## App Academy project description:
 
 In this practice, you will implement the code for the server that you documented
 in the previous [API docs for a Music Archive practice].
